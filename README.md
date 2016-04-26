@@ -4,3 +4,6 @@
 ~~~~>자연계  
 >>담임쌤 김경한  
 30명  
+
+
+![동영상](http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/)
