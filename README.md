@@ -7,4 +7,4 @@
 30명  
 
 
-[원피스] (https://www.youtube.com/watch?v=pvXWP0SXFvA)
+[원피스](https://www.youtube.com/watch?v=pvXWP0SXFvA)
