@@ -4,7 +4,7 @@
 -------
 >자연계  
 >>담임쌤 김경한  
->>>30명  
-~~~[원피스](https://www.youtube.com/watch?v=pvXWP0SXFvA)  
-~~~![루피](https://raw.githubusercontent.com/form223/ydph308/gh-pages/images/wo.jpg)
+>>>30명~~~~  
+[원피스](https://www.youtube.com/watch?v=pvXWP0SXFvA)  
+![루피](https://raw.githubusercontent.com/form223/ydph308/gh-pages/images/wo.jpg)
 ##어떻게??
